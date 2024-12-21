@@ -1,4 +1,4 @@
-package Books.fromTheGround_Up.chapter3_variables;
+package Books.fromTheGround_Up.section01_theFundamentalTools.chapter3_variables;
 
 import java.util.Scanner;
 
